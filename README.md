@@ -14,7 +14,7 @@ Repository ini berisi latihan praktik penggunaan TypeScript sebagai bagian dari 
 
 1. Clone repository ini ke komputer Anda:
    ```bash
-   git clone https://github.com/rikrikru/latihan-praktik-typescript-lumoshive-academy.git
+   git clone https://github.com/rikkriuk/latihan-praktik-typescript-lumoshive-academy.git
    ```
 
 2. Masuk ke folder proyek:
