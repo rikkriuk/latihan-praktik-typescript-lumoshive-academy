@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": "3932",
+      "title": "Imunologi Dasar",
+      "author": "Garna",
+      "description": "Lorem "
+    },
+    {
+      "id": "c296",
+      "title": "Dunia Shopee",
+      "author": "Diana",
+      "description": "Lorem"
+    }
+  ]
+}
